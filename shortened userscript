@@ -1,0 +1,10 @@
+// ==UserScript==
+// @name         Simple Hack Client
+// @namespace    Idk
+// @version      lasted now
+// @description  Its Simple but interesting
+// @author       ToMo
+// @match        https://bloxd.io/*
+// @require      https://raw.githubusercontent.com/BlatantBloxdPlayer4/Simple-client---Bloxd.io/refs/heads/main/simple%20client.txt
+// @grant        none
+// ==/UserScript==
